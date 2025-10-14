@@ -416,3 +416,10 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+data/
+*.ipynb_checkpoints
+.venv/
+.env
+.DS_Store
+*.log
