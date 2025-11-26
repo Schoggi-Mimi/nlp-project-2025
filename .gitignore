@@ -423,6 +423,7 @@ data/
 .env
 .DS_Store
 *.log
+models/biomedical-ner-all/pytorch_model.bin
 models/BioMed_NER/*
 models/ModernBERT-base/*
 models/ModernBERT-large/*
