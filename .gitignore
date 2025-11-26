@@ -423,3 +423,7 @@ data/
 .env
 .DS_Store
 *.log
+models/BioMed_NER/*
+models/ModernBERT-base/*
+models/ModernBERT-large/*
+notebooks/train.spacy
