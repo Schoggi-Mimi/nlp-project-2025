@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-def annotate_entities(df: pd.DataFrame = None) -> pd.DataFrame:
+def annotate_entities(path: str) -> pd.DataFrame:
     """
     Annotate entities in the given DataFrame by prompting the user for validation.
 
@@ -10,8 +10,7 @@ def annotate_entities(df: pd.DataFrame = None) -> pd.DataFrame:
     Returns:
         pd.DataFrame: DataFrame with an additional 'correct' column indicating user validation.
     """
-    if df is None:
-        df = pd.read_csv("../data/custom_ner_evaluation/custom_ner_manual_to_eval.csv")
+    df = pd.read_csv(path)
 
     df["correct"] = None
     for i, row in df.iterrows():
@@ -22,5 +21,5 @@ def annotate_entities(df: pd.DataFrame = None) -> pd.DataFrame:
 
         df.at[i, "correct"] = 1 if ans.lower() == "y" else 0
 
-    df.to_csv("../data/custom_ner_evaluation/custom_ner_manual_evaluated.csv", index=False)
+    df.to_csv(path, index=False)
     return df

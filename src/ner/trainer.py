@@ -34,8 +34,8 @@ def load_annotated_json(path):
     return db
 
 def train_custom_ner(train_data_path, output_dir, labels, n_iter=20):
-    nlp = spacy.blank("en")
-    ner = nlp.add_pipe("ner")
+    nlp = spacy.blank("en") # blank model with no vocab
+    ner = nlp.add_pipe("ner") # blank NER component with no pretrained weights
     for label in labels:
         ner.add_label(label)
 
