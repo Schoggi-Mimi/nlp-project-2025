@@ -417,7 +417,7 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
-data/
+# data/
 *.ipynb_checkpoints
 .venv/
 .env

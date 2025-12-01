@@ -1,0 +1,101 @@
+entity,label,correct
+dissection,PROCEDURE,1
+exchange,ANATOMY,0
+heart,ANATOMY,1
+bleeding,PROCEDURE,0
+knee arthroplasty,ANATOMY,0
+Behavioral Health,PROCEDURE,0
+removed,PROCEDURE,0
+legs,ANATOMY,1
+subcutaneous tissue,ANATOMY,1
+11 days,LAB_VALUE,1
+layers,ANATOMY,1
+edema,DISEASE,1
+cord,ANATOMY,1
+lateral aspect,ANATOMY,1
+muscle,ANATOMY,1
+cecum,ANATOMY,1
+potassium,PROCEDURE,0
+fever,PROCEDURE,0
+#11 port,LAB_VALUE,1
+uvula,ANATOMY,1
+pain,DISEASE,0
+chloride,ANATOMY,0
+28,DISEASE,0
+carina,ANATOMY,1
+laparotomy,ANATOMY,0
+removed,PROCEDURE,0
+feedings,ANATOMY,0
+heart,ANATOMY,1
+Gelfoam,DISEASE,0
+muscles,PROCEDURE,0
+#2 Miller,LAB_VALUE,1
+epidural space,ANATOMY,1
+mouth,ANATOMY,1
+T4,PROCEDURE,0
+removed,PROCEDURE,0
+peri,PROCEDURE,0
+aortic valve,ANATOMY,1
+provided,PROCEDURE,0
+photophobia,DISEASE,1
+placed,DISEASE,0
+barium swallow,ANATOMY,0
+surgery,PROCEDURE,1
+abdomen,ANATOMY,1
+Urinary tract infection,PROCEDURE,0
+medial border,ANATOMY,1
+sedation,PROCEDURE,1
+aortic arch,ANATOMY,1
+stenosis,ANATOMY,0
+left atrium,ANATOMY,1
+tubes,PROCEDURE,0
+bleeding,DISEASE,1
+Closed head,PROCEDURE,0
+procedure,ANATOMY,0
+anemia,DISEASE,1
+electrocautery,PROCEDURE,1
+6 x 2 cm,PROCEDURE,0
+chest pain,ANATOMY,0
+spine,ANATOMY,1
+neuroforamina,DISEASE,0
+placed,PROCEDURE,0
+recurrence,ANATOMY,0
+Cervical carcinoma,PROCEDURE,0
+pacing,ANATOMY,0
+same distribution,ANATOMY,0
+infection,PROCEDURE,0
+kidney,ANATOMY,1
+Ears,ANATOMY,1
+hepatitis,ANATOMY,0
+probe,ANATOMY,0
+right foot,ANATOMY,1
+Bilateral tibial motor,PROCEDURE,0
+cord,PROCEDURE,0
+CaCO3,ANATOMY,0
+extubated,DISEASE,0
+Dilatation,DISEASE,1
+penicillin,PROCEDURE,0
+erythema,ANATOMY,0
+closed,ANATOMY,0
+needle,ANATOMY,0
+6-0 plain,PROCEDURE,1
+injection,PROCEDURE,1
+#18 gauge,LAB_VALUE,1
+preserved,PROCEDURE,0
+2/19/96,ANATOMY,0
+probiotic's,PROCEDURE,0
+procedure,ANATOMY,0
+lesion,DISEASE,1
+aortic pressure,ANATOMY,0
+skin,ANATOMY,1
+musculature,ANATOMY,1
+65%,LAB_VALUE,1
+progressive desaturation,DISEASE,1
+discomfort,PROCEDURE,0
+Respirations,PROCEDURE,0
+dissection,ANATOMY,0
+AST,SYMPTOM,0
+rhythm,PROCEDURE,0
+placed,PROCEDURE,0
+lateral pedicles,ANATOMY,1
+chills,PROCEDURE,0

@@ -1,0 +1,101 @@
+entity,label,mapped_label,correct
+weight,Sign_symptom,SYMPTOM,1
+bone invasion,Sign_symptom,SYMPTOM,1
+ob,Biological_structure,ANATOMY,0
+sub,Biological_structure,ANATOMY,0
+position,Therapeutic_procedure,PROCEDURE,0
+posterior talofib,Biological_structure,ANATOMY,1
+solution,Medication,MEDICATION,0
+ke,Disease_disorder,DISEASE,0
+toes,Biological_structure,ANATOMY,1
+negative,Lab_value,LAB_VALUE,1
+steroid,Medication,MEDICATION,1
+inflammation,Sign_symptom,SYMPTOM,1
+chest,Biological_structure,ANATOMY,1
+normal,Lab_value,LAB_VALUE,1
+af,Medication,MEDICATION,0
+spinal fusion,Therapeutic_procedure,PROCEDURE,1
+coronary artery disease,Disease_disorder,DISEASE,1
+rev,Sign_symptom,SYMPTOM,0
+bunion deformity,Sign_symptom,SYMPTOM,0
+lactulose,Medication,MEDICATION,1
+pain,Sign_symptom,SYMPTOM,1
+symptoms,Sign_symptom,SYMPTOM,1
+pain,Sign_symptom,SYMPTOM,1
+ep,Sign_symptom,SYMPTOM,0
+peribulbar,Medication,MEDICATION,0
+ascending,Biological_structure,ANATOMY,0
+or table,Therapeutic_procedure,PROCEDURE,0
+is,Sign_symptom,SYMPTOM,0
+lu,Biological_structure,ANATOMY,0
+fentanyl,Medication,MEDICATION,1
+abdominal,Biological_structure,ANATOMY,1
+negative,Lab_value,LAB_VALUE,1
+injected,Therapeutic_procedure,PROCEDURE,0
+e,Sign_symptom,SYMPTOM,0
+left,Biological_structure,ANATOMY,0
+decomp,Therapeutic_procedure,PROCEDURE,0
+central canal,Biological_structure,ANATOMY,1
+obstruction,Sign_symptom,SYMPTOM,1
+sp,Sign_symptom,SYMPTOM,0
+14cm,Lab_value,LAB_VALUE,1
+pravastatin,Medication,MEDICATION,1
+les,Sign_symptom,SYMPTOM,0
+compression fracture,Disease_disorder,DISEASE,1
+bengal cages,Therapeutic_procedure,PROCEDURE,1
+card,Disease_disorder,DISEASE,0
+fifth left metatarsophalangeal joint,Biological_structure,ANATOMY,1
+eustachian tube,Biological_structure,ANATOMY,1
+/,Lab_value,LAB_VALUE,0
+li,Medication,MEDICATION,0
+rv,Biological_structure,ANATOMY,1
+nuclear sclerosis,Disease_disorder,DISEASE,1
+lesion,Sign_symptom,SYMPTOM,1
+right lower extremity,Biological_structure,ANATOMY,1
+hyper,Sign_symptom,SYMPTOM,0
+es,Biological_structure,ANATOMY,0
+prednisolone,Medication,MEDICATION,1
+lidoca,Medication,MEDICATION,1
+/ 2,Lab_value,LAB_VALUE,0
+normal,Lab_value,LAB_VALUE,1
+compression devices,Therapeutic_procedure,PROCEDURE,0
+tons,Biological_structure,ANATOMY,0
+er,Sign_symptom,SYMPTOM,0
+marcaine,Medication,MEDICATION,1
+catheter,Therapeutic_procedure,PROCEDURE,0
+dil,Sign_symptom,SYMPTOM,0
+d,Sign_symptom,SYMPTOM,0
+normal,Lab_value,LAB_VALUE,1
+incision,Therapeutic_procedure,PROCEDURE,1
+iv grade,Medication,MEDICATION,0
+groin,Biological_structure,ANATOMY,1
+bald,Sign_symptom,SYMPTOM,1
+foot,Biological_structure,ANATOMY,1
+fi,Medication,MEDICATION,0
+abnormal,Lab_value,LAB_VALUE,0
+potassium,Medication,MEDICATION,1
+pubic,Biological_structure,ANATOMY,1
+rev,Therapeutic_procedure,PROCEDURE,0
+fever,Sign_symptom,SYMPTOM,1
+brow,Biological_structure,ANATOMY,1
+normal,Lab_value,LAB_VALUE,1
+obstruction,Sign_symptom,SYMPTOM,1
+mass,Sign_symptom,SYMPTOM,1
+tia,Disease_disorder,DISEASE,1
+l,Disease_disorder,DISEASE,0
+high,Sign_symptom,SYMPTOM,0
+compression,Sign_symptom,SYMPTOM,0
+cl,Sign_symptom,SYMPTOM,0
+high,Lab_value,LAB_VALUE,0
+sp,Biological_structure,ANATOMY,0
+weakness,Sign_symptom,SYMPTOM,1
+chest,Biological_structure,ANATOMY,1
+forearm,Biological_structure,ANATOMY,1
+chest,Biological_structure,ANATOMY,1
+prepped,Therapeutic_procedure,PROCEDURE,0
+tongue depressor,Therapeutic_procedure,PROCEDURE,0
+foreskin,Biological_structure,ANATOMY,1
+zone,Biological_structure,ANATOMY,0
+scars,Sign_symptom,SYMPTOM,1
+left corona,Biological_structure,ANATOMY,0
+numbness,Sign_symptom,SYMPTOM,1
