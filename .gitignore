@@ -428,3 +428,4 @@ models/BioMed_NER/*
 models/ModernBERT-base/*
 models/ModernBERT-large/*
 notebooks/train.spacy
+notebooks/plot.ipynb

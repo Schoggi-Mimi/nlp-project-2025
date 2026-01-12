@@ -1,4 +1,5 @@
 import re
+
 import pandas as pd
 from sklearn.cluster import KMeans
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -33,9 +34,17 @@ class TextClusterer:
 
     def _build_tokenizer(self):
         if self.lemmatization:
-            import spacy
+            import subprocess
+            import sys
 
-            nlp = spacy.load("en_core_web_sm", disable=["parser", "ner"])
+            import spacy
+            model_name = "en_core_web_sm"
+            try:
+                nlp = spacy.load("en_core_web_sm", disable=["parser", "ner"])
+            except OSError:
+                subprocess.check_call([sys.executable, "-m", "spacy", "download", model_name])
+                nlp = spacy.load("en_core_web_sm", disable=["parser", "ner"])
+
             def lemmatize(text):
                 doc = nlp(text.lower())
                 return [t.lemma_ for t in doc if t.is_alpha and not t.is_stop]
